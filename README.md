@@ -1,3 +1,7 @@
+Note:
+This project is cloned from Android Repository, this: https://github.com/android/testing-samples/tree/main/ui/espresso/BasicSample
+This project has customized for Medium Post: T.B.D
+
 # Basic sample for Espresso
 
 *If you are new to Espresso, try this sample first.*
